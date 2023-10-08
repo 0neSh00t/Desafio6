@@ -1,5 +1,5 @@
 # Desafio6
-Desarrollo de Portafolio - Clase Desarrollo Web - DesafioLatam
+Trabajo colaborativo y Github Pages - Curso Introducción al Desarrollo Web - Modulo Trabajo colaborativo y Github Pages - DesafioLatam2023
 
 
 # Repositorios Forkeado/Commit
